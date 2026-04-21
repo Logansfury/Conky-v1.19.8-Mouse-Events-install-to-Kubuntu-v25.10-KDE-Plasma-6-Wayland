@@ -61,9 +61,12 @@ sudo apt install -y libxnvctrl-dev
 ```
 STEP 5a) Create a build folder:
 
+```
 mkdir build
 
 cd build
+```
+
 
 Step 6) Configure
 ```
